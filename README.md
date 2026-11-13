@@ -1,4 +1,4 @@
-# Computer Networks Lab (lap1)
+# Computer Networks Lab (lab1)
 
 Cisco Packet Tracer simulation files for Computer Networks Laboratory.
 
