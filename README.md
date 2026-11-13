@@ -10,4 +10,3 @@ Cisco Packet Tracer simulation files for Computer Networks Laboratory.
 - **Ex05**: Dynamic Routing - OSPF (`Ex05_OSPF.pkt`)
 - **Ex06**: VLAN Configuration (`Ex06_VLAN.pkt`)
 - **Ex07**: NAT Configuration (`Ex07_NAT.pkt`)
-- **Ex08**: IPv6 SLAAC & RIPng (`Ex08_IPv6_SLAAC_RIPng.pkt`)
